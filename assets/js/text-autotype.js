@@ -1,6 +1,6 @@
 var i = 1;
 var j = -1;
-var list = ['Scrum Master | Tech Manager | Cloud | Product Management'];
+var list = ['User Research & Personas | Wireframing & Protoytyping | Design System | Typography & Color Theory'];
 var a = list[0];
 var len = list.length;
 var num = 0;
